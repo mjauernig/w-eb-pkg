@@ -1,4 +1,4 @@
-w-eb-pkg
+w(eb)pkg
 ========
 
 Webinterface for WPKG
